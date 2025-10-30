@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/bereilhp/tokamon/issues"
   },
-  "homepage": "https://github.com/bereilhp/tokamon#readme"
+  "homepage": "https://github.com/bereilhp/tokamon#readme",
+  "dependencies": {
+    "tiktoken": "^1.0.22"
+  }
 }
