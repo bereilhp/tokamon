@@ -2,7 +2,7 @@
 
 import fs from "fs";
 import path from "path";
-import tiktoken from "tiktoken"; // Make sure to install it: npm install tiktoken
+import tiktoken from "tiktoken";
 
 /**
  * Removes Markdown formatting like #, *, >, etc.
