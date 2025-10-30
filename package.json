@@ -1,0 +1,27 @@
+{
+  "name": "tokamon",
+  "version": "1.0.0",
+  "description": "LLM-aware Markdown compressor — same words, fewer tokens.",
+  "main": "src/compressor.js",
+  "type": "module",
+  "bin": {
+    "tokamon": "./src/compressor.js"
+  },
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "start": "node src/compressor.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bereilhp/tokamon.git"
+  },
+  "author": "PB",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bereilhp/tokamon/issues"
+  },
+  "homepage": "https://github.com/bereilhp/tokamon#readme"
+}
