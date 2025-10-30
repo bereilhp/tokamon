@@ -5,6 +5,6 @@ LLM-aware Markdown compressor — same words, fewer tokens.
 ```
 npm link
 ```
-> **Note:** Then you can run `tokamon examples/short/tutorial.md`
+> **Note:** To test you can run `tokamon examples/tutorial.md`
 
 > **Note:** To remove the linked package run `npm unlink -g tokamon`
